@@ -127,7 +127,7 @@ function Footer() {
 
             {/* Admin Login */}
             <a
-              href="http://localhost:5174/"
+              href="https://portfolio-admin-rou6.onrender.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xs text-text-muted transition-colors duration-300 hover:text-primary"
